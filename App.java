@@ -33,7 +33,7 @@ public class App {
             System.out.println("Por padrão você já está aderindo o Plano Básico - Assistir vídeos num único dispositivo (R$9,99)");
             System.out.println("");
             System.out.println("");
-            System.out.println("*[5] Pacote 1: Assistir vídeos num único dispositivo* (R$19,99)");
+            System.out.println("*[5] Pacote 1: Assistir vídeos em vários dispositivo* (R$19,99)");
             System.out.println("*[6] Pacote 2: Frete Grátis em produtos* (R$9,99)");
             System.out.println("*[7] Pacote 3: Caixa surpresa com produtos relacionados a filmes e séries* (R$29,99)");
             System.out.println("*[8] Pacote 4: Cartão de crédito Platinum* (R$49,99)");
@@ -106,7 +106,6 @@ public class App {
                     System.out.println("");
                     executando = false;
                     System.out.println("");
-                    System.out.println("=====(VOCÊ ESCOLHEU SAIR. ADESÃO DE ASSINATURA NÃO REALIZADA)=====");
                     break;
                 }
             }

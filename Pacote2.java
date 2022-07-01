@@ -1,6 +1,5 @@
 public class Pacote2 extends PacotesDecorator {
 
-
     @Override
     public String getName(){
         return super.getName() + " + Frete Grátis";

@@ -4,8 +4,7 @@ public abstract class PacotesDecorator implements iPacotes {
 
     @Override
     public String getName() {
-        return this.pacote.name;
-        
+        return this.pacote.name;    
     }
 
     @Override
